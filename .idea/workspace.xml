@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calculateSqaure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertCelsiusToFarenheit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757428228479</updated>
       <workItem from="1757428229535" duration="638000" />
-      <workItem from="1757429581746" duration="1648000" />
+      <workItem from="1757429581746" duration="1963000" />
     </task>
     <servers />
   </component>
