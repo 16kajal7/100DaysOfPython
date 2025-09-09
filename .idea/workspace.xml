@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CheckNumifPosNegZero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print1toN.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.CheckNumifPosNegZero.executor": "Run",
     "Python.SubtractsTwoNum.executor": "Run",
     "Python.findLargerNum.executor": "Run",
     "Python.one.executor": "Run",
@@ -80,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757428228479</updated>
       <workItem from="1757428229535" duration="638000" />
-      <workItem from="1757429581746" duration="970000" />
+      <workItem from="1757429581746" duration="1316000" />
     </task>
     <servers />
   </component>
@@ -90,6 +90,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfPython$takesInput.coverage" NAME="takesInput Coverage Results" MODIFIED="1757428848288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$SubtractsTwoNum.coverage" NAME="SubtractsTwoNum Coverage Results" MODIFIED="1757429840592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$CheckNumifPosNegZero.coverage" NAME="CheckNumifPosNegZero Coverage Results" MODIFIED="1757430619882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$findLargerNum.coverage" NAME="findLargerNum Coverage Results" MODIFIED="1757430158742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$one.coverage" NAME="one Coverage Results" MODIFIED="1757428326944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
