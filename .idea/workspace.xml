@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/convertCelsiusToFarenheit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstNSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,9 @@
     "Python.CheckNumifPosNegZero.executor": "Run",
     "Python.SubtractsTwoNum.executor": "Run",
     "Python.calculateSqaure.executor": "Run",
+    "Python.convertCelsiusToFarenheit.executor": "Run",
     "Python.findLargerNum.executor": "Run",
+    "Python.firstNSum.executor": "Run",
     "Python.one.executor": "Run",
     "Python.print1toN.executor": "Run",
     "Python.takesInput.executor": "Run",
@@ -82,7 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1757428228479</updated>
       <workItem from="1757428229535" duration="638000" />
-      <workItem from="1757429581746" duration="1963000" />
+      <workItem from="1757429581746" duration="2155000" />
+      <workItem from="1757485882621" duration="320000" />
     </task>
     <servers />
   </component>
@@ -97,5 +101,6 @@
     <SUITE FILE_PATH="coverage/100DaysOfPython$calculateSqaure.coverage" NAME="calculateSqaure Coverage Results" MODIFIED="1757431235378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$findLargerNum.coverage" NAME="findLargerNum Coverage Results" MODIFIED="1757430158742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$one.coverage" NAME="one Coverage Results" MODIFIED="1757428326944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$convertCelsiusToFarenheit.coverage" NAME="convertCelsiusToFarenheit Coverage Results" MODIFIED="1757431645134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
