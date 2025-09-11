@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="" />
+    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/nameCharComparision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +62,7 @@
     "Python.print1toN.executor": "Run",
     "Python.reverseString.executor": "Run",
     "Python.takesInput.executor": "Run",
+    "Python.temperatureComparision.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -91,7 +95,7 @@
       <workItem from="1757428229535" duration="638000" />
       <workItem from="1757429581746" duration="2155000" />
       <workItem from="1757485882621" duration="2727000" />
-      <workItem from="1757573461262" duration="1058000" />
+      <workItem from="1757573461262" duration="1803000" />
     </task>
     <servers />
   </component>
@@ -116,5 +120,6 @@
     <SUITE FILE_PATH="coverage/100DaysOfPython$temperatureComparision.coverage" NAME="temperatureComparision Coverage Results" MODIFIED="1757574804583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$one.coverage" NAME="one Coverage Results" MODIFIED="1757428326944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$reverseString.coverage" NAME="reverseString Coverage Results" MODIFIED="1757486889772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$nameCharComparision.coverage" NAME="nameCharComparision Coverage Results" MODIFIED="1757575427551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
