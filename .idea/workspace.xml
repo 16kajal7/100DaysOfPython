@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="" />
+    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/orOperator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.CheckNumifPosNegZero.executor": "Run",
     "Python.SubtractsTwoNum.executor": "Run",
+    "Python.andOperator.executor": "Run",
     "Python.calculateSqaure.executor": "Run",
     "Python.convertCelsiusToFarenheit.executor": "Run",
     "Python.countVowels.executor": "Run",
@@ -53,6 +57,7 @@
     "Python.firstNSum.executor": "Run",
     "Python.multiplicationTable.executor": "Run",
     "Python.one.executor": "Run",
+    "Python.orOperator.executor": "Run",
     "Python.print1toN.executor": "Run",
     "Python.reverseString.executor": "Run",
     "Python.takesInput.executor": "Run",
@@ -88,6 +93,7 @@
       <workItem from="1757428229535" duration="638000" />
       <workItem from="1757429581746" duration="2155000" />
       <workItem from="1757485882621" duration="2727000" />
+      <workItem from="1757573461262" duration="726000" />
     </task>
     <servers />
   </component>
@@ -96,9 +102,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysOfPython$countVowels.coverage" NAME="countVowels Coverage Results" MODIFIED="1757487357870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$andOperator.coverage" NAME="andOperator Coverage Results" MODIFIED="1757573657018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$calculateSqaure.coverage" NAME="calculateSqaure Coverage Results" MODIFIED="1757431235378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$firstNSum.coverage" NAME="firstNSum Coverage Results" MODIFIED="1757486249807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$findLargerNum.coverage" NAME="findLargerNum Coverage Results" MODIFIED="1757430158742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$orOperator.coverage" NAME="orOperator Coverage Results" MODIFIED="1757573965486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$convertCelsiusToFarenheit.coverage" NAME="convertCelsiusToFarenheit Coverage Results" MODIFIED="1757431645134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$takesInput.coverage" NAME="takesInput Coverage Results" MODIFIED="1757428848288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$factorialOfANum.coverage" NAME="factorialOfANum Coverage Results" MODIFIED="1757488528222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
