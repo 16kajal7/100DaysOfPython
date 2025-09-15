@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/carGame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +99,7 @@
       <workItem from="1757429581746" duration="2155000" />
       <workItem from="1757485882621" duration="2727000" />
       <workItem from="1757573461262" duration="11848000" />
-      <workItem from="1757773741081" duration="1131000" />
+      <workItem from="1757773741081" duration="1419000" />
     </task>
     <servers />
   </component>
