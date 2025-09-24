@@ -1,0 +1,33 @@
+# #Write a program to input an integer(A) from user and print the Ath month of the year.
+# Months list: {January, February, March, April, May, June, July, August, September, October, November, December}
+
+A = int(input("Enter month: "))
+months = { 1:"January", 2: "February", 3: "March", 4: "April", 5: "May", 6: "June", 7: "July", 8: "August",
+           9: "September", 10: "October", 11: "November", 12: "December" }
+
+print(months.get(A,"Invalid month number!"))
+
+# if A == 1:
+#     print("January")
+# elif A == 2:
+#     print("February")
+# elif A == 3:
+#     print("March")
+# elif A == 4:
+#     print("April")
+# elif A == 5:
+#     print("May")
+# elif A == 6:
+#     print("June")
+# elif A == 7:
+#     print("July")
+# elif A == 8:
+#     print("August")
+# elif A == 9:
+#     print("September")
+# elif A == 10:
+#     print("October")
+# elif A == 11:
+#     print("November")
+# elif A == 12:
+#     print("December")
