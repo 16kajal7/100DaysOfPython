@@ -1,0 +1,1 @@
+#This python program prints right aligned *(star) triangle pattern
