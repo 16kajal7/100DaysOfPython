@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printLastDigit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +124,7 @@
       <workItem from="1758688879336" duration="422000" />
       <workItem from="1758718790579" duration="2165000" />
       <workItem from="1758806178881" duration="1650000" />
-      <workItem from="1758889625290" duration="637000" />
+      <workItem from="1758889625290" duration="825000" />
     </task>
     <servers />
   </component>
