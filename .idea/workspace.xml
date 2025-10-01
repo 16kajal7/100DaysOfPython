@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="" />
+    <list default="true" id="02b2cd95-8ff0-4428-981c-4e846941cfca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SumOfNumInList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printEvenNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +50,7 @@
     "Python.CheckNumifPosNegZero.executor": "Run",
     "Python.FizzBuzz.executor": "Run",
     "Python.SubtractsTwoNum.executor": "Run",
+    "Python.SumOfNumInList.executor": "Run",
     "Python.andOperator.executor": "Run",
     "Python.calculateSqaure.executor": "Run",
     "Python.carGame.executor": "Run",
@@ -65,6 +70,7 @@
     "Python.notOperator.executor": "Run",
     "Python.one.executor": "Run",
     "Python.orOperator.executor": "Run",
+    "Python.palindromeNumber.executor": "Run",
     "Python.percentageAndGrade.executor": "Run",
     "Python.print1toN.executor": "Run",
     "Python.printLastDigit.executor": "Run",
@@ -125,6 +131,8 @@
       <workItem from="1758718790579" duration="2165000" />
       <workItem from="1758806178881" duration="1650000" />
       <workItem from="1758889625290" duration="825000" />
+      <workItem from="1758978247988" duration="306000" />
+      <workItem from="1759328348256" duration="331000" />
     </task>
     <servers />
   </component>
@@ -145,8 +153,10 @@
     <SUITE FILE_PATH="coverage/100DaysOfPython$percentageAndGrade.coverage" NAME="percentageAndGrade Coverage Results" MODIFIED="1758806605539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$whileLoop.coverage" NAME="whileLoop Coverage Results" MODIFIED="1757578375995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$factorialOfANum.coverage" NAME="factorialOfANum Coverage Results" MODIFIED="1758550999117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$palindromeNumber.coverage" NAME="palindromeNumber Coverage Results" MODIFIED="1758978481865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$weightConvertor.coverage" NAME="weightConvertor Coverage Results" MODIFIED="1757576772569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$trianglePattern.coverage" NAME="trianglePattern Coverage Results" MODIFIED="1758551013605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$printOddNumbers.coverage" NAME="printOddNumbers Coverage Results" MODIFIED="1759328850288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$SubtractsTwoNum.coverage" NAME="SubtractsTwoNum Coverage Results" MODIFIED="1757429840592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$whichMonth.coverage" NAME="whichMonth Coverage Results" MODIFIED="1758719847286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$minOfTwo.coverage" NAME="minOfTwo Coverage Results" MODIFIED="1758807555138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -165,9 +175,11 @@
     <SUITE FILE_PATH="coverage/100DaysOfPython$sumOfDigits.coverage" NAME="sumOfDigits Coverage Results" MODIFIED="1758548170748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$takesInput.coverage" NAME="takesInput Coverage Results" MODIFIED="1757428848288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$rightAlignedTriangle.coverage" NAME="rightAlignedTriangle Coverage Results" MODIFIED="1758689045302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$printEvenNumbers.coverage" NAME="printEvenNumbers Coverage Results" MODIFIED="1759328750377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$print1toN.coverage" NAME="print1toN Coverage Results" MODIFIED="1757431001613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$CheckNumifPosNegZero.coverage" NAME="CheckNumifPosNegZero Coverage Results" MODIFIED="1757430619882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$swapTwoNumbers.coverage" NAME="swapTwoNumbers Coverage Results" MODIFIED="1758462750764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysOfPython$SumOfNumInList.coverage" NAME="SumOfNumInList Coverage Results" MODIFIED="1759328561978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$leapYear.coverage" NAME="leapYear Coverage Results" MODIFIED="1758027784140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysOfPython$reverseString.coverage" NAME="reverseString Coverage Results" MODIFIED="1757486889772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
